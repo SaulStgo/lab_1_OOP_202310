@@ -1,0 +1,67 @@
+S1, 2021
+TRABAJO EN CLASES
+
+1. Las siguientes formulas, representa parametros importantes en el diseño de sistemas de tratamiento de aguas residuales. Defina brevemente y explique la utilidad de cada uno de ellos. (1 punto)
+Carga orgánica aplicada
+Carga orgánica: es el contenido de compuestos de materia orgánica que se presentan en aguas residuales de un determinado lugar. Esto sirve para calcular la materia orgánica que entra por un flujo por dia.
+       𝐷𝐵𝑂5 𝑟𝑒𝑚𝑜𝑣𝑖𝑑𝑎: Primeramente, la demanda biológica de oxígeno mide la cantidad de oxígeno consumido por microorganismos aeróbicos para lograr una oxidación completa tanto la materia orgánica como inorgánica presente en la muestra. Por otra parte, la DBO5  es utilizada como parámetro de grado de contaminación luego de cinco días transcurrida la reacción.
+
+
+𝐷𝐵𝑂5 efluente: Los efluentes que poseen materia xenobiótica (contaminante) entran en el término de DBO5. El desarrollo de la demanda biológica de oxígeno ejecutada por parte de efluentes con xenobióticos, parte con desarrollo frenado o inhibido, hasta que los microorganismos en sucesivas generaciones, se van adaptando al medio extraño y proceden a metabolizarlo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. De acuerdo al conocimiento adquirido en clases de Tratamiento de Aguas Residuales. (3 puntos)
+a) Dibuje el diagrama (bloque) de una planta de Tratamiento de Lodos Activados y Explique brevemente. En que consiste el tratamiento
+  
+
+El tratamiento de Lodos activados consiste en que a través de un proceso de aireación y la recirculación de fangos que eliminan las sustancias biodegradables que están disueltas en el agua residual. En la parte 1 del esquema se puede observar el aireado donde se hace un tratamiento con aire para poder separar los desechos con el agua. En la parte 2 se puede observar ya el proceso finalizado donde se separó el material con el agua. 
+Esquema (0,5 puntos)
+                                    
+
+
+
+
+b) Investigue un tratamento alternativo al sistema de tratamiento de lodos activados realice un esquema y explique brevemente.
+
+
+                          
+
+
+
+
+3) Si usted diseña una planta con descarga un efluente de 25 L/s con una DBO5 de 20 mg/L, a un rio que lleva normalmente un flujo 100L/s y se encuentra libre de contaminación. ¿Cuál será la DBO5 aguas abajo del punto de descarga ?. nota: realice un pequeño diagrama o esquema para realizar sus cálculos. 3 puntos
+nota: considere mezcla complete y base de tiempo 1 s.
+
+
+efluente de 25 L/s
+DBO5 de 20 mg/L
+flujo rio 100 L/s
+Rio libre de contaminación DBO5  = 1 mg/L
+DBO5 aguas abajo del punto de descarga 
+DBO río +DBO efluente = DBO final
+ 1 mg/L + 20 mg/L = 21mg/L
+DBO5 abajo del punto de descarga=  21 mg/L
+Flujo planta = 25 L/s
+Flujo río = 100 L/s
+Total flujo abajo del punto de descarga = 125 L/s
+Por lo tanto (Total flujo abajo del punto de descarga) /(DBO5 abajo del punto de descarga)
+ 21 mg/L =  21 L/s
+= 125L/s : 21 L/s = 5,952 mg/s
